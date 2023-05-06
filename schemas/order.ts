@@ -14,6 +14,11 @@ export default {
             title: 'TotalPrice'
         },
         {
+            name: 'shopId',
+            type: 'string',
+            title: 'ShopId'
+        },
+        {
             name: 'order',
             type: 'array',
             title: 'Order',
